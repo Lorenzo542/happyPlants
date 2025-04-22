@@ -91,3 +91,9 @@ main{
     height: 100vh;
     font-size: 4em;
 }
+
+#my-video{
+    height: 720px;
+    width: 1000px;
+    background-color: black ;
+}
